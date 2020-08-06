@@ -1,4 +1,2 @@
-# weather-app
+Weather App
 Weather app with darksky api.
-
-www.github/markocracker
